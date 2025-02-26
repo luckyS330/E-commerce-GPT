@@ -1,0 +1,6 @@
+__pycache__
+.dockerignore
+notebook.ipynb
+combined_info.csv
+config.bat
+node_modules
